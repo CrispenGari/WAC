@@ -25,12 +25,6 @@ Wild Animal Classification is an AI api for performing image classification task
 
 WAC tool is an AI tool for mobile application that is used to perform some basic wild animal image classification task in real-time. Given an image from a camera or an imported image the application must be able to classify the name or class of the wild animal on that picture in real-time.
 
-<p align="center">
-<img src="1.jpeg" alt="cover" width="200"/>
-<img src="2.jpeg" alt="cover" width="200"/>
-<img src="3.jpeg" alt="cover" width="200"/>
-<img src="0.jpeg" alt="cover" width="200"/>
-<p>
 
 ### API
 
